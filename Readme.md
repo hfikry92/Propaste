@@ -24,6 +24,8 @@ python3 gen.py
 ```
 3. Answer all the questions :D 
 
+4. Paste the magic somewhere
+
 ## Updating Template
 Just update template.txt.
 Any keyword between <>, would be considered a variable.
